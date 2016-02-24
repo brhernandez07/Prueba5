@@ -30,6 +30,8 @@ namespace prjPrincipal
             objCorreo.usuario = txtCorreo.Text;
             objCorreo.enviarCorreo();
 
+            // NO MODIFICAR ESTE PARTE YA QUE FUNCIONA AL 100%
+
 
         }
 
